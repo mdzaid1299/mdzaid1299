@@ -15,7 +15,6 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzaid1299&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 </br>
-</br>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" /> -->
 
