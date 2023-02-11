@@ -5,7 +5,7 @@
   <ul>
     <li>🧐 like frontend more (Angular).</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://mdzaid1299.github.io/mdzaid1299.io/">my portfolio website</a>.</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/mohd-zaid-0461001a0/">LinkedIn</a>.
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/mdzaiduiux/">LinkedIn</a>.
     <li>💬 Ping me about <strong>Angular, Java, Spring Boot</strong>.</li>
     <li>🤖 Would love to colaborate</li>
     <!-- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> -->
