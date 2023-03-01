@@ -1,6 +1,6 @@
-<div>
-  
-  <img width="400px" align="right" src="https://pbs.twimg.com/media/EXUgmSsXQAAlWg7?format=jpg&name=small" />
+
+![phooyo](https://user-images.githubusercontent.com/105915677/222090482-c8ffa243-71e0-4af9-9dd0-ee83c381245e.jpeg) 
+
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🧐 like frontend more (Angular).</li>
