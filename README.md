@@ -2,7 +2,7 @@
 
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>🧐 like frontend more (Angular).</li>
+    <li>🧐 like frontend more (Angular). Learing React</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://mdzaid1299.github.io/Portfol.io/">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/mdzaiduiux/">LinkedIn</a>.
     <li>💬 Ping me about <strong>Angular, Java, Spring Boot</strong>.</li>
