@@ -2,10 +2,10 @@
 
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>🧐 like frontend more (Angular). Learing React</li>
-    <li>👨‍💻 Most of my projects are available on <a href="https://mdzaid1299.github.io/Portfol.io/">my portfolio website</a>.</li>
+<!--     <li>🧐 like frontend more (Angular). Learing React</li> -->
+    <li>👨‍💻 Most of my projects are available on <a href="https://mdzaid1299.github.io/Portfol.io/">my portfolio website</a>.</li> 
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/mdzaiduiux/">LinkedIn</a>.
-    <li>💬 Ping me about <strong>Angular, Java, Spring Boot</strong>.</li>
+    <li>💬 Ping me about <strong>Data Science</strong>.</li>
     <li>🤖 Would love to colaborate</li>
     <!-- <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li> -->
     <li>🎉 Fun Fact: i am Ambivert </li>
@@ -27,4 +27,4 @@ Most used languages across my projects:
 <!-- ![Groovy](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234298b8&message=Groovy%EF%B8%B11.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.4%25) -->
 <!-- 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p> -->
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
